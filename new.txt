@@ -1,1 +1,3 @@
 It is a new file created by user & adding this file to repository.
+
+and updating in github and pulling to make changes in local directory
